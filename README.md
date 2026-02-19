@@ -42,3 +42,7 @@ project_sentimental/
 
 - python src/train.py
 - python src/cli.py
+
+## Author
+
+H2SO4-1191 – Software Engineer
