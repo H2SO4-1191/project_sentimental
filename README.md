@@ -23,6 +23,7 @@ This project uses Hugging Face Transformers with PyTorch to load a pre-trained m
 
 ## Project Structure
 
+```bash
 project_sentimental/
 ├── data/ # Datasets or training data
 ├── src/ # Source code
@@ -31,6 +32,7 @@ project_sentimental/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+```
 
 ## Installation
 
